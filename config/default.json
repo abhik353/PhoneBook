@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://ARES:12345@cluster0.8jvbx.mongodb.net/phonebook?retryWrites=true&w=majority",
+    "jwtSecret":"abhi123"
+}
